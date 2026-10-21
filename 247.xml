@@ -9,8 +9,8 @@
   </channel>
 
  
-  <programme start="20261021060000 0000" stop="20501021120000 0000" channel="MIX TV">
+  <programme start="20261021060000 +0000" stop="20261022060000 +0000" channel="MIXTVpe">
     <title lang="es">Programación Continua</title>
-    <desc lang="es">MIX TV.</desc>
+    <desc lang="es">Disfruta de la mejor música y entretenimiento variado a través de MIX TV Junín.</desc>
     <category lang="es">Entretenimiento</category>
-  </programme>
+</programme>
