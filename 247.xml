@@ -11,7 +11,7 @@
 
   <!-- 2. PROGRAMACIÓN PERPETUA -->
   <!-- Transmisión de la Mañana -->
-  <programme start="20200101000000 +0000" stop="20351231235959 +0000" channel="CanalEstatico.cl">
+  <programme start="20200101000000 +0000" stop="20351231235959 +0000" channel="MIXTVpe">
     <title lang="es">MIX TV</title>
     <desc lang="es">MIX TV</desc>
     <category lang="es">Entretenimiento</category>
