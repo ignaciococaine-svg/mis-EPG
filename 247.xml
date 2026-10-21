@@ -9,7 +9,7 @@
   </channel>
 
  
-  <programme start="20261021060000 -0300" stop="20501021120000 -0300" channel="MIXTVpe">
+  <programme start="20261021060000 0000" stop="20501021120000 0000" channel="MIX TV">
     <title lang="es">Programación Continua</title>
     <desc lang="es">MIX TV.</desc>
     <category lang="es">Entretenimiento</category>
