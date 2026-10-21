@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv generator-info-name="MiEPGEstatico">
-
-  <!-- 1. DEFINICIÓN DEL CANAL -->
-  <channel id="MIXTVpe">
+<tv 
+    <channel id="MIXTVpe">
     <display-name lang="es">MIX TV</display-name>
     <icon src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" />
   </channel>
-
-  <!-- 2. PROGRAMACIÓN PERPETUA -->
-  <!-- Transmisión de la Mañana -->
-  <programme start="20200101000000 +0000" stop="20351231235959 +0000" channel="MIXTVpe">
-    <title lang="es">MIX TV</title>
-    <desc lang="es">MIX TV</desc>
+  <programme start="20261021000000 +0000" stop="20501231235959 +0000" channel="MIXTVpe">
+    <title lang="es">Programación Continua</title>
+    <desc lang="es">MIXTVpe</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
