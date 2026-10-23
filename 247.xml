@@ -26,3 +26,39 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 </tv>
+
+<channel id="OliTV">
+    <display-name lang="es">Oli TV</display-name>
+    <icon src="https://i.ibb.co/bRCn8Vwd/Olit2.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="OliTV">
+    <title lang="es">Coyhaique TV</title>
+    <desc lang="es">Disfruta de OliTV.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+</tv>
+
+<channel id="AbajoelaLineaTV">
+    <display-name lang="es">Abajo e' la Línea TV</display-name>
+    <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="AbajoelaLineaTV">
+    <title lang="es">Abajo e' la Línea TV</title>
+    <desc lang="es">Disfruta de Abajo e' la Línea TV.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+</tv>
+
+<channel id="Canal11Aysen">
+    <display-name lang="es">Canal 11 Aysen</display-name>
+    <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="Canal11Aysen">
+    <title lang="es">Canal 11 Aysen</title>
+    <desc lang="es">Disfruta de Canal 11 Aysen.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+</tv>
