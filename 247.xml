@@ -25,8 +25,8 @@
     <desc lang="es">Disfruta de Coyhaique TV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-</tv>
 
+</tv>
 <channel id="OliTV">
     <display-name lang="es">Oli TV</display-name>
     <icon src="https://i.ibb.co/bRCn8Vwd/Olit2.png" />
@@ -37,8 +37,8 @@
     <desc lang="es">Disfruta de OliTV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-</tv>
 
+</tv>
 <channel id="AbajoelaLineaTV">
     <display-name lang="es">Abajo e' la Línea TV</display-name>
     <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
@@ -49,8 +49,8 @@
     <desc lang="es">Disfruta de Abajo e' la Línea TV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
-</tv>
 
+</tv>
 <channel id="Canal11Aysen">
     <display-name lang="es">Canal 11 Aysen</display-name>
     <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
@@ -61,4 +61,5 @@
     <desc lang="es">Disfruta de Canal 11 Aysen.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
+
 </tv>
