@@ -47,15 +47,16 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-  <channel id="Canal11Aysen">
-    <display-name lang="es">Canal 11 Aysen</display-name>
-    <icon src="https://i.ibb.co/5gdt1kjM/chile-67d6df52b14ad.png" />
+  <channel id="AysenTV">
+    <display-name lang="es">Aysen TV</display-name>
+    <icon src="https://i.ibb.co/LXL8b73w/logo-aysentv-2022.png" />
   </channel>
 
-  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="Canal11Aysen">
-    <title lang="es">Canal 11 Aysen</title>
-    <desc lang="es">Disfruta de Canal 11 Aysen.</desc>
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="AysenTV">
+    <title lang="es">Aysen TV</title>
+    <desc lang="es">Disfruta de Aysen TV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
+
 
 </tv>
