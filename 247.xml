@@ -15,12 +15,12 @@
   </programme>
 
 </tv>
-<channel id="Coyhaique TV">
+<channel id="CoyhaiqueTV">
     <display-name lang="es">Coyhaique TV</display-name>
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
   </channel>
 
-  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="MIXTVpe">
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="CoyhaiqueTV">
     <title lang="es">Coyhaique TV</title>
     <desc lang="es">Disfruta de Coyhaique TV.</desc>
     <category lang="es">Entretenimiento</category>
