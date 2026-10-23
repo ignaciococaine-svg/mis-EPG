@@ -2,8 +2,8 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="MiGeneradorEPG" generator-info-url="http://localhost/">
-  
-    <channel id="MIXTVpe">
+
+  <channel id="MIXTVpe">
     <display-name lang="es">MIX TV</display-name>
     <icon src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" />
   </channel>
@@ -14,8 +14,7 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-</tv>
-<channel id="CoyhaiqueTV">
+  <channel id="CoyhaiqueTV">
     <display-name lang="es">Coyhaique TV</display-name>
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
   </channel>
@@ -26,20 +25,18 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-</tv>
-<channel id="OliTV">
+  <channel id="OliTV">
     <display-name lang="es">Oli TV</display-name>
     <icon src="https://i.ibb.co/bRCn8Vwd/Olit2.png" />
   </channel>
 
   <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="OliTV">
-    <title lang="es">Coyhaique TV</title>
+    <title lang="es">Oli TV</title>
     <desc lang="es">Disfruta de OliTV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
-</tv>
-<channel id="AbajoelaLineaTV">
+  <channel id="AbajoelaLineaTV">
     <display-name lang="es">Abajo e' la Línea TV</display-name>
     <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
   </channel>
@@ -50,10 +47,9 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-</tv>
-<channel id="Canal11Aysen">
+  <channel id="Canal11Aysen">
     <display-name lang="es">Canal 11 Aysen</display-name>
-    <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
+    <icon src="https://i.ibb.co/5gdt1kjM/chile-67d6df52b14ad.png" />
   </channel>
 
   <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="Canal11Aysen">
