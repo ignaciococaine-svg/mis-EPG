@@ -60,7 +60,7 @@
 
 <channel id="CHVDeportes">
     <display-name lang="es">CHV Deportes</display-name>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HpJ69gDWbSNCTPul0mLhWytk_mCR6Hg20vF2oFfKCKSDxl9Pu0jRcA&s=10" />
+    <icon src="https://i.ibb.co/LXL8b73w/logo-aysentv-2022.png" />
   </channel>
 
   <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="CHVDeportes">
