@@ -113,4 +113,26 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+  <channel id="ANIRetro">
+    <display-name lang="es">ANIRetro</display-name>
+    <icon src="https://i.ibb.co/Jj9zJbmr/aniretro.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="ANIRetro">
+    <title lang="es">ANIRetro</title>
+    <desc lang="es">Canal dedicado al anime clásico y a las series de animación que marcaron generaciones. Reviví títulos de acción, aventura, ciencia ficción y fantasía, con la nostalgia y el estilo de las mejores épocas del anime.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+  <channel id="Animash">
+    <display-name lang="es">Animash</display-name>
+    <icon src="https://i.ibb.co/9kHrG3FZ/Animash.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="Animash">
+    <title lang="es">Animash</title>
+    <desc lang="es">El universo del anime en un solo canal: aventura, romance, magia, acción y ciencia ficción. Con una programación variada y estrenos simultáneos desde Japón, Animash acerca a los fans a los géneros, estilos y narrativas más apasionantes de la animación japonesa.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
