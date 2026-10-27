@@ -137,7 +137,7 @@
 
   <channel id="MAXAnime">
     <display-name lang="es">MAX Anime</display-name>
-    <icon src="https://i.ibb.co/9kHrG3FZ/Animash.png" />
+    <icon src="https://i.ibb.co/twxYntMM/Max-Anime-Logo.png" />
   </channel>
 
   <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="MAXAnime">
