@@ -135,4 +135,26 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+  <channel id="MAXAnime">
+    <display-name lang="es">MAX Anime</display-name>
+    <icon src="https://i.ibb.co/9kHrG3FZ/Animash.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="MAXAnime">
+    <title lang="es">MAX Anime</title>
+    <desc lang="es">Canal dedicado a la animación japonesa, con series de anime dobladas al español y una programación variada de acción, aventura, fantasía, ciencia ficción y comedia. Un espacio para descubrir y disfrutar de los mejores títulos del universo anime.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+  <channel id="MAXeSports">
+    <display-name lang="es">MAX eSports</display-name>
+    <icon src="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="MAXeSports">
+    <title lang="es">MAX eSports</title>
+    <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
