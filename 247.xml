@@ -58,5 +58,15 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="CHVDeportes">
+    <display-name lang="es">CHV Deportes</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HpJ69gDWbSNCTPul0mLhWytk_mCR6Hg20vF2oFfKCKSDxl9Pu0jRcA&s=10" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="CHVDeportes">
+    <title lang="es">CHV Deportes</title>
+    <desc lang="es">Disfruta de CHV Deportes.</desc>
+    <category lang="es">Deportes</category>
+  </programme>
 
 </tv>
