@@ -91,4 +91,15 @@
     <category lang="es">Entretenimiento</category>
   </programme>
   
+  <channel id="ZTV2">
+    <display-name lang="es">ZTV2</display-name>
+    <icon src="https://i.ibb.co/7xNBNJgG/ZTV2.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="ZTV2">
+    <title lang="es">ZTV2</title>
+    <desc lang="es">Canal dedicado a la animación japonesa, con una programación variada de anime de acción, aventura, fantasía, ciencia ficción y comedia. Reviví clásicos y descubrí series para todos los públicos, en un espacio pensado para los fans del género.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
