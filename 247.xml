@@ -69,4 +69,15 @@
     <category lang="es">Deportes</category>
   </programme>
 
+  <channel id="EnerGeek Radio">
+    <display-name lang="es">EnerGeek Radio</display-name>
+    <icon src="https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="EnerGeek Radio">
+    <title lang="es">EnerGeek Radio</title>
+    <desc lang="es">Música japonesa, J-Pop, J-Rock, bandas sonoras de anime y videojuegos en una señal para los amantes de la cultura geek y la cultura pop. Disfruta de una programación musical continua con los sonidos que acompañan tus mundos favoritos.</desc>
+    <category lang="es">Musica</category>
+  </programme>
+  
 </tv>
