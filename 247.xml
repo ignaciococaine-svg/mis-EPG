@@ -102,4 +102,15 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+  <channel id="AnimaKids">
+    <display-name lang="es">AnimaKids</display-name>
+    <icon src="https://i.ibb.co/3Yp4DQK2/animakids.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="AnimaKids">
+    <title lang="es">AnimaKids</title>
+    <desc lang="es">Canal dedicado al anime y la animación para chicos y jóvenes, con series de acción, aventura, fantasía y comedia. Descubrí historias emocionantes, personajes inolvidables y la mejor diversión del mundo del anime.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
