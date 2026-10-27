@@ -79,5 +79,16 @@
     <desc lang="es">Música japonesa, J-Pop, J-Rock, bandas sonoras de anime y videojuegos en una señal para los amantes de la cultura geek y la cultura pop. Disfruta de una programación musical continua con los sonidos que acompañan tus mundos favoritos.</desc>
     <category lang="es">Musica</category>
   </programme>
+
+  <channel id="ZTV">
+    <display-name lang="es">ZTV</display-name>
+    <icon src="https://i.ibb.co/fzR74vf0/ZTV.png" />
+  </channel>
+
+  <programme start="20261021060000 +0000" stop="20261103060000 +0000" channel="ZTV">
+    <title lang="es">ZTV</title>
+    <desc lang="es">Espacio dedicado al anime y la animación japonesa, con series de acción, aventura, fantasía y ciencia ficción para fans de todas las edades. Disfrutá episodios de clásicos y títulos populares, acompañados de la energía y el entretenimiento característicos de ZTV.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
   
 </tv>
