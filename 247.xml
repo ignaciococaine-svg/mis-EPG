@@ -10,7 +10,7 @@
 
   <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="MIXTVpe">
     <title lang="es">MIX TV</title>
-    <desc lang="es">Disfruta de la mejor música y entretenimiento variado a través de MIX TV.</desc>
+    <desc lang="es">Programación variada y alternada con música, videos y entretenimiento. Una señal dinámica para acompañarte con contenidos frescos y diversos durante todo el día a través de MIX TV.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
@@ -19,7 +19,7 @@
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="CoyhaiqueTV">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="CoyhaiqueTV">
     <title lang="es">Coyhaique TV</title>
     <desc lang="es">Disfruta de Coyhaique TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -30,7 +30,7 @@
     <icon src="https://i.ibb.co/bRCn8Vwd/Olit2.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="OliTV">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="OliTV">
     <title lang="es">Oli TV</title>
     <desc lang="es">Disfruta de OliTV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -41,7 +41,7 @@
     <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="AbajoelaLineaTV">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="AbajoelaLineaTV">
     <title lang="es">Abajo e' la Línea TV</title>
     <desc lang="es">Disfruta de Abajo e' la Línea TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -52,7 +52,7 @@
     <icon src="https://i.ibb.co/LXL8b73w/logo-aysentv-2022.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="AysenTV">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="AysenTV">
     <title lang="es">Aysen TV</title>
     <desc lang="es">Disfruta de Aysen TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -63,7 +63,7 @@
     <icon src="https://i.ibb.co/tTCcRjxs/Logo-CHV-Deportes-2022.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="CHVDeportes">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="CHVDeportes">
     <title lang="es">CHV Deportes</title>
     <desc lang="es">Toda la actualidad del deporte con noticias, análisis, entrevistas y los mejores momentos del fútbol chileno e internacional. Un espacio para seguir resultados, protagonistas y la conversación deportiva del día.</desc>
     <category lang="es">Deportes</category>
@@ -74,7 +74,7 @@
     <icon src="https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="EnerGeek Radio">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="EnerGeek Radio">
     <title lang="es">EnerGeek Radio</title>
     <desc lang="es">Música japonesa, J-Pop, J-Rock, bandas sonoras de anime y videojuegos en una señal para los amantes de la cultura geek y la cultura pop. Disfruta de una programación musical continua con los sonidos que acompañan tus mundos favoritos.</desc>
     <category lang="es">Musica</category>
@@ -85,7 +85,7 @@
     <icon src="https://i.ibb.co/fzR74vf0/ZTV.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="ZTV">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="ZTV">
     <title lang="es">ZTV</title>
     <desc lang="es">Espacio dedicado al anime y la animación japonesa, con series de acción, aventura, fantasía y ciencia ficción para fans de todas las edades. Disfrutá episodios de clásicos y títulos populares, acompañados de la energía y el entretenimiento característicos de ZTV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -96,7 +96,7 @@
     <icon src="https://i.ibb.co/7xNBNJgG/ZTV2.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="ZTV2">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="ZTV2">
     <title lang="es">ZTV2</title>
     <desc lang="es">Canal dedicado a la animación japonesa, con una programación variada de anime de acción, aventura, fantasía, ciencia ficción y comedia. Reviví clásicos y descubrí series para todos los públicos, en un espacio pensado para los fans del género.</desc>
     <category lang="es">Entretenimiento</category>
@@ -107,7 +107,7 @@
     <icon src="https://i.ibb.co/3Yp4DQK2/animakids.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="AnimaKids">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="AnimaKids">
     <title lang="es">AnimaKids</title>
     <desc lang="es">Canal dedicado al anime y la animación para chicos y jóvenes, con series de acción, aventura, fantasía y comedia. Descubrí historias emocionantes, personajes inolvidables y la mejor diversión del mundo del anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -118,7 +118,7 @@
     <icon src="https://i.ibb.co/Jj9zJbmr/aniretro.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="ANIRetro">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="ANIRetro">
     <title lang="es">ANIRetro</title>
     <desc lang="es">Canal dedicado al anime clásico y a las series de animación que marcaron generaciones. Reviví títulos de acción, aventura, ciencia ficción y fantasía, con la nostalgia y el estilo de las mejores épocas del anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -129,7 +129,7 @@
     <icon src="https://i.ibb.co/9kHrG3FZ/Animash.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="Animash">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="Animash">
     <title lang="es">Animash</title>
     <desc lang="es">El universo del anime en un solo canal: aventura, romance, magia, acción y ciencia ficción. Con una programación variada y estrenos simultáneos desde Japón, Animash acerca a los fans a los géneros, estilos y narrativas más apasionantes de la animación japonesa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -140,7 +140,7 @@
     <icon src="https://i.ibb.co/twxYntMM/Max-Anime-Logo.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="MAXAnime">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="MAXAnime">
     <title lang="es">MAX Anime</title>
     <desc lang="es">Canal dedicado a la animación japonesa, con series de anime dobladas al español y una programación variada de acción, aventura, fantasía, ciencia ficción y comedia. Un espacio para descubrir y disfrutar de los mejores títulos del universo anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -151,7 +151,7 @@
     <icon src="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" />
   </channel>
 
-  <programme start="20261029000000 +0000" stop="20261102000000 +0000" channel="MAXeSports">
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="MAXeSports">
     <title lang="es">MAX eSports</title>
     <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
     <category lang="es">Entretenimiento</category>
