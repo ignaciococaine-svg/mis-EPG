@@ -36,6 +36,28 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+      <channel id="ClickTV">
+    <display-name lang="es">Click TV Chile</display-name>
+    <icon src="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" />
+  </channel>
+
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="ClickTV">
+    <title lang="es">Click TV Chile</title>
+    <desc lang="es">ClickTV Chile es un canal de televisión que conecta a las personas con su territorio y comunidad. Su programación incluye noticias regionales y nacionales, entrevistas, salud y bienestar, emprendimiento, cultura, música, vida familiar, contenidos cristianos y espacios de servicio, con historias e información útil para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+      <channel id="EmocionTV">
+    <display-name lang="es">EmociónTV</display-name>
+    <icon src="https://i.ibb.co/VYh11273/images-copia.png" />
+  </channel>
+
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="EmocionTV">
+    <title lang="es">EmociónTV</title>
+    <desc lang="es">Emoción TV es un canal chileno de entretenimiento con conversación, entrevistas, actualidad del espectáculo, música, magacines y contenidos de vida cotidiana. Una señal cercana, dinámica y familiar, que conecta con la comunidad y acompaña a los televidentes durante todo el día.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
   <channel id="CoyhaiqueTV">
     <display-name lang="es">Coyhaique TV</display-name>
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
