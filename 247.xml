@@ -245,12 +245,12 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="EPA!TV">
+<channel id="EPATV">
     <display-name lang="es">EPA!TV</display-name>
     <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPA!TV">
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
     <title lang="es">EPA!TV</title>
     <desc lang="es">EPA! TV es más que un canal: es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
@@ -476,5 +476,92 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="ConcepciónTV">
+    <display-name lang="es">Concepción TV</display-name>
+    <icon src="https://i.ibb.co/fKWBJt5/concepciontv.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ConcepciónTV">
+    <title lang="es">Concepción TV</title>
+    <desc lang="es">Concepción TV acompaña a la comunidad del Gran Concepción con noticias locales, entrevistas, cultura, deportes, actividades sociales y entretenimiento. Su programación incluye espacios de conversación como Junto a Ti, además de contenidos informativos, comunitarios y de interés general para la región.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="DinámicaTV">
+    <display-name lang="es">Dinámica TV</display-name>
+    <icon src="https://radiodinamica.cl/wp-content/uploads/2025/09/DTV_Diseno_sin_titulo-removebg-preview.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="DinámicaTV">
+    <title lang="es">Dinámica TV</title>
+    <desc lang="es">Canal Dinámica TV acompaña a la comunidad de Coronel y la Región del Biobío con una programación cercana y plural: noticias locales, entrevistas, actualidad, cultura, música y espacios de entretenimiento. Un medio que informa, conversa y refleja la vida de la zona.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="ClubTV">
+    <display-name lang="es">Club TV</display-name>
+    <icon src="https://i.ibb.co/1gn6VZD/206667742-4084648041656251-6195781250182289786-n-1.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ClubTV">
+    <title lang="es">Club TV</title>
+    <desc lang="es">Club TV es un canal de música y entretenimiento que acompaña a su audiencia con videoclips, éxitos musicales, programas y contenidos variados. Una señal para disfrutar de la música y el entretenimiento en cualquier momento del día.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MaulevisiónTV">
+    <display-name lang="es">Maulevisión TV</display-name>
+    <icon src="https://maulevision.cl/wp-content/uploads/2025/03/maulevision-solo-e1743355890621.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MaulevisiónTV">
+    <title lang="es">Maulevisión TV</title>
+    <desc lang="es">Maulevisión conecta con la Región del Maule a través de una programación cercana y variada: entretenimiento, música, entrevistas, cultura, actualidad local y espacios comunitarios. Un canal para informarse, entretenerse y descubrir las historias y talentos del territorio.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="VLTVUnanuevaTV">
+    <display-name lang="es">VLTV Una Nueva TV</display-name>
+    <icon src="https://www.vltv.cl/img/logo-new.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VLTVUnanuevaTV">
+    <title lang="es">VLTV Una Nueva TV</title>
+    <desc lang="es">VLTV — Una Nueva TV acompaña a la comunidad del Valle del Loncomilla con una programación cercana y variada: actualidad local, entrevistas, cultura, tradiciones, deportes, música y entretenimiento. Un canal que informa, entretiene y pone en valor la identidad del territorio.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="UCTAraucaníaTV">
+    <display-name lang="es">UCT Araucanía TV</display-name>
+    <icon src="https://i.ibb.co/gMTKxLKg/TV-U-Cat-lica-Temuco.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="UCTAraucaníaTV">
+    <title lang="es">UCT Araucanía TV</title>
+    <desc lang="es">TV UCT Araucanía acompaña a la comunidad con una programación que combina información, conversación, análisis y entretención. Descubre documentales, entrevistas, actualidad regional, salud y bienestar, arte, música y contenidos que destacan la interculturalidad, la naturaleza y el conocimiento de La Araucanía.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="Corcubio">
+    <display-name lang="es">Corcubio</display-name>
+    <icon src="http://corcubio.com/wp-content/uploads/2023/06/LOGO-CORCUBIO.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Corcubio">
+    <title lang="es">Corcubio</title>
+    <desc lang="es">Corcubio TV es el canal cultural de la Corporación Cultural de Biobío. Ofrece una programación continua de conciertos de afamadas orquestas de música clásica, además de documentales, entrevistas y espacios sobre las artes, la música y la vida cultural de la región.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="ExpreziónTV">
+    <display-name lang="es">Exprezión TV</display-name>
+    <icon src="https://i.imgur.com/3w9hrzT.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ExpreziónTV">
+    <title lang="es">Exprezión TV</title>
+    <desc lang="es">ExpreziónTV acompaña a la comunidad de Los Álamos y la Provincia de Arauco con una programación plural, creativa y de servicio. Disfruta de noticias locales, entrevistas, cultura, educación, música, fe, eventos municipales, religiosos y comunitarios, además de espacios de entretenimiento para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
 
 </tv>
