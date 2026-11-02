@@ -201,14 +201,14 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="MAXeSports">
-    <display-name lang="es">MAX eSports</display-name>
-    <icon src="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" />
+<channel id="CaracolaTV">
+    <display-name lang="es">Caracola TV</display-name>
+    <icon src="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MAXeSports">
-    <title lang="es">MAX eSports</title>
-    <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CaracolaTV">
+    <title lang="es">Caracola TV</title>
+    <desc lang="es">Caracola TV es el canal comunitario de Peñalolén y zonas aledañas de Santiago. Su programación reúne noticias e información local, cultura, entrevistas, eventos barriales y entretenimiento para toda la familia, con una mirada cercana a la identidad y la vida cotidiana del sector.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
@@ -223,13 +223,13 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="RDOTelevision">
-    <display-name lang="es">RDO Television</display-name>
+<channel id="RDOTelevisión">
+    <display-name lang="es">RDO Televisión</display-name>
     <icon src="https://i.ibb.co/gZQhLPSX/RDO.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RDOTelevision">
-    <title lang="es">RDO Television</title>
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RDOTelevisión">
+    <title lang="es">RDO Televisión</title>
     <desc lang="es">Canal comunitario de Hualqui, dedicado a informar, entretener y conectar a los habitantes de la comuna y la Región del Biobío. Transmite noticias locales, reportajes, actividades culturales y sociales, y espacios de interés general que reflejan la identidad y la vida cotidiana de la zona.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
@@ -256,5 +256,26 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="Únetev">
+    <display-name lang="es">Únetev</display-name>
+    <icon src="https://www.unetev.cl/wp-content/uploads/2023/08/LOGO1-1.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Únetev">
+    <title lang="es">Únetev</title>
+    <desc lang="es">Únetev conecta a las comunidades de la provincia de Talagante con información, cultura, educación y entretenimiento. Un espacio para la participación ciudadana, las tradiciones y las voces del territorio.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="WappTV">
+    <display-name lang="es">WappTV</display-name>
+    <icon src="https://www.wapptv.cl/assets/img/LOGO-WAPP-TV-BLANCO.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="WappTV">
+    <title lang="es">WappTV</title>
+    <desc lang="es">WappTV es un canal de televisión de variedad temática que reúne entrevistas, actualidad, viajes, bienestar, sostenibilidad, ciencia, emprendimiento, cultura pop y entretenimiento. Con una programación diversa y con perspectiva de género, invita a descubrir historias, ideas y experiencias desde una mirada contemporánea e inclusiva.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
 
 </tv>
