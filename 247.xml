@@ -246,12 +246,12 @@
   </programme>
 
 <channel id="EPATV">
-    <display-name lang="es">EPA!TV</display-name>
+    <display-name lang="es">EPATV</display-name>
     <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
   </channel>
 
   <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
-    <title lang="es">EPA!TV</title>
+    <title lang="es">EPATV</title>
     <desc lang="es">EPA!TV es más que un canal es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
