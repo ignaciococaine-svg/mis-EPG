@@ -245,13 +245,13 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="EPATV">
-    <display-name lang="es">EPA TV</display-name>
+<channel id="EPA!TV">
+    <display-name lang="es">EPA!TV</display-name>
     <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
-    <title lang="es">EPA TV</title>
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPA!TV">
+    <title lang="es">EPA!TV</title>
     <desc lang="es">EPA! TV es más que un canal: es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
@@ -278,4 +278,25 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="ProvidenciaTelevisión">
+    <display-name lang="es">Providencia Televisión</display-name>
+    <icon src="https://i.ibb.co/xnfhYkb/logo-Photoroom.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ProvidenciaTelevisión">
+    <title lang="es">Providencia Televisión</title>
+    <desc lang="es">Providencia Televisión conecta a los vecinos con la actualidad y la identidad de la comuna. Disfruta de reportajes, entrevistas, cultura, deporte, servicios, eventos barriales y entretenimiento, en un espacio dedicado a informar, entretener y poner en valor la comunidad de Providencia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="TendenciasPrime">
+    <display-name lang="es">Tendencias Prime</display-name>
+    <icon src="https://static.wixstatic.com/media/dc92ad_828a03ad7d6d48cf81af0c6f300fd5a8~mv2.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TendenciasPrime">
+    <title lang="es">Tendencias Prime</title>
+    <desc lang="es">Tendencias Prime es un canal de interés general que reúne entretenimiento, actualidad, cultura, entrevistas, estilo de vida y contenidos para toda la familia. Una señal variada, pensada para acompañar distintos momentos del día con programación accesible y diversa.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
 </tv>
