@@ -252,7 +252,7 @@
 
   <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
     <title lang="es">EPA!TV</title>
-    <desc lang="es">EPA! TV es más que un canal: es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
+    <desc lang="es">EPA!TV es más que un canal es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
@@ -561,6 +561,17 @@
   <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ExpreziónTV">
     <title lang="es">Exprezión TV</title>
     <desc lang="es">ExpreziónTV acompaña a la comunidad de Los Álamos y la Provincia de Arauco con una programación plural, creativa y de servicio. Disfruta de noticias locales, entrevistas, cultura, educación, música, fe, eventos municipales, religiosos y comunitarios, además de espacios de entretenimiento para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="Primitivos">
+    <display-name lang="es">Primitivos</display-name>
+    <icon src="https://i.ibb.co/NgVtfk4v/primitivos-1.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Primitivos">
+    <title lang="es">Primitivos</title>
+    <desc lang="es">Primitivos TV es un canal chileno local/regional de Valdivia, Región de Los Ríos, con una programación de interés general y estilo clásico. Su parrilla incluye música, variedades, cine retro y contenidos cercanos a la comunidad.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
