@@ -333,4 +333,60 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="GTVTelevisión">
+    <display-name lang="es">GTV Televisión</display-name>
+    <icon src="https://i.ibb.co/zWRSnBY0/46760645-2178216875521843-5874159554501017600-n.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="GTVTelevisión">
+    <title lang="es">GTV Televisión</title>
+    <desc lang="es">GTV Televisión acompaña a la comunidad de Rancagua y la Región de O’Higgins con una programación cercana y variada: noticias locales, entrevistas, cultura, deportes, actividades y entretenimiento. Un canal que difunde los acontecimientos, los talentos y la identidad del territorio.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="ElTipógrafoTV">
+    <display-name lang="es">El Tipógrafo TV</display-name>
+    <icon src="https://i.ibb.co/NnG3WdPx/431898077-843581251114264-7854577795134161858-n.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ElTipógrafoTV">
+    <title lang="es">El Tipógrafo TV</title>
+    <desc lang="es">El Tipógrafo TV es la señal informativa del medio regional El Tipógrafo, dedicada a la actualidad de Rancagua y la Región de O’Higgins. Su programación incluye Noticiero El Tipógrafo, entrevistas, editoriales, reportajes, actualidad política y comunal, cultura, gastronomía, historia local y transmisiones en vivo de eventos relevantes.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="EkizTV">
+    <display-name lang="es">Ekiz TV</display-name>
+    <icon src="https://i.ibb.co/4gV58yZV/EKIZ-TV.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EkizTV">
+    <title lang="es">Ekiz TV</title>
+    <desc lang="es">Ekiz TV conecta con la comunidad a través de una programación cercana y variada: actualidad local, reportajes, entrevistas, cultura, deportes, eventos y entretenimiento para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="OdiseaTV">
+    <display-name lang="es">Odisea TV</display-name>
+    <icon src="https://i.ibb.co/XZFhCLQp/c-FFodiseatv.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="OdiseaTV">
+    <title lang="es">Odisea TV</title>
+    <desc lang="es">Odisea TV invita a descubrir el mundo a través de documentales de ciencia, naturaleza, historia, tecnología y cultura. Desde la vida salvaje y los misterios del océano hasta la exploración espacial, la ingeniería y los grandes inventos, su programación ofrece conocimiento y entretenimiento para toda la familia, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="AutónomaTV">
+    <display-name lang="es">Autónoma TV</display-name>
+    <icon src="https://autonomatvchile.cl/logo-autonoma-tv-transparente.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AutónomaTV">
+    <title lang="es">Autónoma TV</title>
+    <desc lang="es">Autónoma TV es tu fuente de entretenimiento, información y cultura las 24 horas. Disfruta de noticieros, entrevistas, programas de conversación, salud y bienestar, deportes, música, cine, series, documentales y espacios culturales que reflejan la diversidad de Chile y el mundo.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+
 </tv>
