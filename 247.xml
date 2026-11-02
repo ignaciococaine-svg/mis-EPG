@@ -608,6 +608,17 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="FMHKids">
+    <display-name lang="es">FMH Kids</display-name>
+    <icon src="https://fmh.la/img/logo_kids.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHKids">
+    <title lang="es">FMH Kids</title>
+    <desc lang="es">FMH Kids es el canal de entretenimiento para los más chicos: dibujos animados, series, música, juegos y contenidos educativos pensados para aprender y divertirse. Aventuras, colores y personajes para disfrutar en familia, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 <channel id="ChileInforma">
     <display-name lang="es">Chile Informa</display-name>
     <icon src="http://chileinforma.multicontenidos.cl/images/CHILE-INFORMA-PLUS-1.png" />
@@ -682,6 +693,50 @@
   <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineClassic">
     <title lang="es">+Cine Classic</title>
     <desc lang="es">+Cine Classic es el hogar de los grandes clásicos del cine: películas legendarias, estrellas inolvidables y obras maestras de todos los tiempos. Un viaje por la historia del séptimo arte, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="ATLAS">
+    <display-name lang="es">ATLAS</display-name>
+    <icon src="https://i.ibb.co/YTpqp4q9/logo-atlas.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ATLAS">
+    <title lang="es">ATLAS</title>
+    <desc lang="es">FMH Atlas es el canal de los grandes viajes y los lugares extraordinarios: naturaleza, culturas, aventura, historia y documentales que recorren el planeta. Descubrí el mundo desde casa, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="KNinoTV">
+    <display-name lang="es">KNino TV</display-name>
+    <icon src="https://cdn2.storage.foromedios.com/original/3X/d/c/dcc126f699b6f028fb93895076377978a7dbecd0.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="KNinoTV">
+    <title lang="es">KNino TV</title>
+    <desc lang="es">KNino TV es el primer canal creado para acompañar a perros y mascotas cuando están solos en casa. Contenidos las 24 horas con estímulos visuales y sonoros diseñados para promover la calma, el bienestar y la entretenida compañía de tu mascota.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="AnMaxKids">
+    <display-name lang="es">AnMax Kids</display-name>
+    <icon src="https://i.ibb.co/DfX4qKmb/anmaxkidshd.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AnMaxKids">
+    <title lang="es">AnMax Kids</title>
+    <desc lang="es">ANMAX Kids es el canal de diversión para los más chicos: dibujos animados, series, aventuras, música y personajes llenos de color. Contenidos para jugar, aprender y disfrutar en familia, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="AnMaxMovies">
+    <display-name lang="es">AnMax Movies</display-name>
+    <icon src="https://i.ibb.co/gLtP9Gsg/anmaxmovieshd.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AnMaxMovies">
+    <title lang="es">AnMax Movies</title>
+    <desc lang="es">ANMAX Movies es el canal de las películas para todos los gustos: acción, comedia, drama, terror, aventuras y grandes clásicos. Disfrutá del mejor cine en casa, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
