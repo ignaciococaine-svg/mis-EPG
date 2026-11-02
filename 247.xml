@@ -575,4 +575,47 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="FMHFarWest">
+    <display-name lang="es">FMH FarWest</display-name>
+    <icon src="https://i.ibb.co/35phh2Sm/logo-farwest.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHFarWest">
+    <title lang="es">FMH FarWest</title>
+    <desc lang="es">FMH Farwest te transporta al salvaje oeste con películas y series clásicas de vaqueros, pistoleros, paisajes abiertos y grandes historias de aventura. Disponible las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="FMHRewind">
+    <display-name lang="es">FMH Rewind</display-name>
+    <icon src="https://i.ibb.co/tMLx7kbp/logo-rewind.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHRewind">
+    <title lang="es">FMH Rewind</title>
+    <desc lang="es">FMH Rewind es el canal del cine de colección: presenta películas destacadas de todas las épocas, íntegras y sin interrupciones comerciales, para disfrutar de los grandes clásicos y títulos memorables.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="FMHFlashback">
+    <display-name lang="es">FMH Flashback</display-name>
+    <icon src="https://i.ibb.co/ycPLpbNn/IMG-1547.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHFlashback">
+    <title lang="es">FMH Flashback</title>
+    <desc lang="es">FMH Flashback es el canal de la nostalgia televisiva: reúne series clásicas que dejaron huella en la historia de la televisión, disponibles para disfrutar las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="ChileInforma">
+    <display-name lang="es">Chile Informa</display-name>
+    <icon src="http://chileinforma.multicontenidos.cl/images/CHILE-INFORMA-PLUS-1.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ChileInforma">
+    <title lang="es">Chile Informa</title>
+    <desc lang="es">Chile Informa acerca a la ciudadanía las novedades y recursos disponibles del Estado: fondos, subsidios, educación, vivienda, emprendimiento y desarrollo local, a través de una programación informativa y educativa.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
 </tv>
