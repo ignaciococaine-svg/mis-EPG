@@ -388,5 +388,49 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="UTVSanClemente">
+    <display-name lang="es">UTV San Clemente</display-name>
+    <icon src="https://www.utv.cl/icon.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="UTVSanClemente">
+    <title lang="es">UTV San Clemente</title>
+    <desc lang="es">UTV San Clemente acompaña a la comunidad con noticias, entrevistas, cultura, tradiciones, deportes, actividades vecinales y entretenimiento. Un canal local que difunde la identidad, los talentos y la vida cotidiana de San Clemente y su gente.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="Canal1Ñuble">
+    <display-name lang="es">Canal 1 Ñuble</display-name>
+    <icon src="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Canal1Ñuble">
+    <title lang="es">Canal 1 Ñuble</title>
+    <desc lang="es">Canal 1 Ñuble es el canal de la región: información, entretención y compañía para toda la familia. Disfruta de Hora Clave TV, La Mañana de Uno, Uno Noticias, Uno Te Ayuda, Conectamos, Plan Ideal, Estilo y Estrellas, Ni tan Late y Uno Películas, con una programación cercana a la identidad y la vida cotidiana de Ñuble.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="RTVÑuble">
+    <display-name lang="es">RTV Ñuble</display-name>
+    <icon src="https://i.ibb.co/ynLJ9zH4/RTV-NUBLE.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RTVÑuble">
+    <title lang="es">RTV Ñuble</title>
+    <desc lang="es">RTV Ñuble acompaña a la comunidad con una programación variada y de identidad local: noticias regionales, matinales con cocina y anuncios comunitarios, telenovelas, entrevistas, música, artesanía, festividades y cultura del territorio. Una ventana a la vida, las historias y los acontecimientos de la Región de Ñuble.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="TV5Angol">
+    <display-name lang="es">TV5 Angol</display-name>
+    <icon src="https://i.ibb.co/vxbh0tXg/273376210-2979683809028780-6036201768346758291-n.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TV5Angol">
+    <title lang="es">TV5 Angol</title>
+    <desc lang="es">TV5 Angol acompaña a la comunidad de Angol y la Región de La Araucanía con una programación cercana y variada: noticias locales, entrevistas, cultura, deporte, tradiciones, actividades sociales y entretenimiento para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 
 </tv>
