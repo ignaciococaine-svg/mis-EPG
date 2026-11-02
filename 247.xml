@@ -299,4 +299,38 @@
     <desc lang="es">Tendencias Prime es un canal de interés general que reúne entretenimiento, actualidad, cultura, entrevistas, estilo de vida y contenidos para toda la familia. Una señal variada, pensada para acompañar distintos momentos del día con programación accesible y diversa.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
+
+<channel id="PichilemuTV">
+    <display-name lang="es">Pichilemu TV</display-name>
+    <icon src="https://i.ibb.co/wZSFFk4Z/DFSDFS465267987-8722470487812613-1494007543990162689-n.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="PichilemuTV">
+    <title lang="es">Pichilemu TV</title>
+    <desc lang="es">Pichilemu TV acompaña a la comunidad con una programación que pone en valor el territorio y sus protagonistas. Descubre documentales, series sobre tradiciones y veranos de Pichilemu, espacios de opinión ciudadana, entrevistas, cultura local y contenidos que reflejan la vida, la memoria y el patrimonio de la zona.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="VivoTV">
+    <display-name lang="es">Vivo TV</display-name>
+    <icon src="https://www.vivotv.cl/images/logo%201920%20-1080%20con%20pagina%20web.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VivoTV">
+    <title lang="es">Vivo TV</title>
+    <desc lang="es">Vivo TV ofrece una programación variada para todos los públicos: novelas, conversaciones y entrevistas, entretenimiento, actualidad y espacios informativos. Disponible las 24 horas, es un canal pensado para acompañar el día con contenidos cercanos y entretenidos.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="NCCTomé">
+    <display-name lang="es">NCC Tomé</display-name>
+    <icon src="https://i.ibb.co/q3My0CCP/42505239-215387399155000048-655622080515014656-n.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="NCCTomé">
+    <title lang="es">NCC Tomé</title>
+    <desc lang="es">NCC Tomé es el canal de la comunidad de Tomé. Ofrece noticias locales, deportes, entrevistas, documentales, cultura, música y espacios de entretenimiento que reflejan la identidad, las tradiciones y el acontecer de la comuna y la Región del Biobío.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
