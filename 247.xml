@@ -135,14 +135,14 @@
     <category lang="es">Entretenimiento</category>
   </programme>
   
-  <channel id="ZTV2">
-    <display-name lang="es">ZTV2</display-name>
-    <icon src="https://i.ibb.co/7xNBNJgG/ZTV2.png" />
+  <channel id="PRIDETV">
+    <display-name lang="es">PRIDE TV</display-name>
+    <icon src="https://pridetvlatam.cl/wp-content/uploads/2025/08/cropped-pridetv-logo-web-1.png" />
   </channel>
 
-  <programme start="20261002060000 +0000" stop="20261108060000 +0000" channel="ZTV2">
-    <title lang="es">ZTV2</title>
-    <desc lang="es">Canal dedicado a la animación japonesa, con una programación variada de anime de acción, aventura, fantasía, ciencia ficción y comedia. Reviví clásicos y descubrí series para todos los públicos, en un espacio pensado para los fans del género.</desc>
+  <programme start="20261002060000 +0000" stop="20261108060000 +0000" channel="PRIDETV">
+    <title lang="es">PRIDE TV</title>
+    <desc lang="es">PRIDEtv es el canal de estilo de vida para la comunidad LGBTQI+ y para todos los públicos que celebran la diversidad. Ofrece películas de arte premiadas, documentales, series queer, cortometrajes, realities y programas originales que ponen en pantalla historias, talentos y experiencias diversas.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
@@ -198,6 +198,28 @@
   <programme start="20261002060000 +0000" stop="20261108060000 +0000" channel="MAXeSports">
     <title lang="es">MAX eSports</title>
     <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MAXeSports">
+    <display-name lang="es">MAX eSports</display-name>
+    <icon src="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" />
+  </channel>
+
+  <programme start="20261002060000 +0000" stop="20261108060000 +0000" channel="MAXeSports">
+    <title lang="es">MAX eSports</title>
+    <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="HiperTV">
+    <display-name lang="es">HiperTV</display-name>
+    <icon src="https://i.ibb.co/WNynkt88/IMG-1446.png" />
+  </channel>
+
+  <programme start="20261002060000 +0000" stop="20261108060000 +0000" channel="HiperTV">
+    <title lang="es">HiperTV</title>
+    <desc lang="es">HiperTV es el canal para los amantes de la tecnología y la cultura digital. Transmite las 24 horas contenidos sobre innovación, ciencia, inteligencia artificial, dispositivos móviles, software, videojuegos, redes sociales, programación y ciberseguridad, con entrevistas, reseñas, debates y transmisiones de eventos tecnológicos.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
 
