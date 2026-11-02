@@ -618,4 +618,71 @@
     <desc lang="es">Chile Informa acerca a la ciudadanía las novedades y recursos disponibles del Estado: fondos, subsidios, educación, vivienda, emprendimiento y desarrollo local, a través de una programación informativa y educativa.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
+
+<channel id="+Cine">
+    <display-name lang="es">+Cine</display-name>
+    <icon src="https://i.ibb.co/FLB0KH1q/CINE.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+Cine">
+    <title lang="es">+Cine</title>
+    <desc lang="es">+Cine es el canal dedicado por completo al séptimo arte: estrenos, clásicos, comedias, acción, drama, terror y cine familiar. Disfrutá de películas para todos los gustos, con historias que emocionan, entretienen y hacen vivir el cine las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="+CinePremium">
+    <display-name lang="es">+Cine Premium</display-name>
+    <icon src="https://i.ibb.co/S7XjbfHg/CINE-Premium.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CinePremium">
+    <title lang="es">+Cine Premium</title>
+    <desc lang="es">+Cine Premium ofrece el mejor cine sin interrupciones: grandes estrenos, producciones premiadas, clásicos imprescindibles y películas de todos los géneros en la máxima calidad. Una experiencia cinematográfica exclusiva, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="+CineFamily">
+    <display-name lang="es">+Cine Family</display-name>
+    <icon src="https://i.ibb.co/XkXv00qv/CINE-Family.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineFamily">
+    <title lang="es">+Cine Family</title>
+    <desc lang="es">+Cine Family es el canal de las películas para compartir: comedias, aventuras, animación y clásicos pensados para disfrutar en casa. Historias divertidas, emotivas y aptas para todas las edades, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="+CineTerror">
+    <display-name lang="es">+Cine Terror</display-name>
+    <icon src="https://i.ibb.co/M5KRB63M/CINE-Terror.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineTerror">
+    <title lang="es">+Cine Terror</title>
+    <desc lang="es">+Cine Terror es el destino de los amantes del suspenso y el miedo: películas de terror, thrillers psicológicos, slashers, sobrenatural y ciencia ficción oscura. Historias que mantienen la tensión hasta el final, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="+CineWar">
+    <display-name lang="es">+Cine War</display-name>
+    <icon src="https://i.ibb.co/fdm5kM67/CINE-War.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineWar">
+    <title lang="es">+Cine War</title>
+    <desc lang="es">+Cine War es el canal del cine bélico y de acción: grandes batallas, héroes en el frente, misiones de riesgo e historias basadas en hechos reales. Acción, estrategia y emoción en una programación dedicada al cine de guerra, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="+CineClassic">
+    <display-name lang="es">+Cine Classic</display-name>
+    <icon src="https://i.ibb.co/0jTZ6zts/CINE-Classic.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineClassic">
+    <title lang="es">+Cine Classic</title>
+    <desc lang="es">+Cine Classic es el hogar de los grandes clásicos del cine: películas legendarias, estrellas inolvidables y obras maestras de todos los tiempos. Un viaje por la historia del séptimo arte, las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
