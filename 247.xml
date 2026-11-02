@@ -432,5 +432,49 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="TVCoihueco">
+    <display-name lang="es">TV Coihueco</display-name>
+    <icon src="https://i.ibb.co/ymLD2cGd/654280774-122182505312939760-5247389100827797416-n-Photoroom.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TVCoihueco">
+    <title lang="es">TV Coihueco</title>
+    <desc lang="es">Canal de la comunidad de Coihueco. Difunde noticias y actividades locales, tradiciones, cultura, música, religión y eventos en vivo, con una mirada cercana a la identidad y la vida cotidiana de la comuna.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="Canal9Concepción">
+    <display-name lang="es">Canal 9 Concepción</display-name>
+    <icon src="https://juntostvchile.cl/wp-content/uploads/2024/02/cropped-LOGO-PNG-OFICIAL-2023.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Canal9Concepción">
+    <title lang="es">Canal 9 Concepción</title>
+    <desc lang="es">Canal 9 Bío Bío Televisión conecta con la actualidad del Gran Concepción y la Región del Biobío a través de noticieros, matinales, entrevistas, análisis político, reportajes, deportes y espacios culturales. Con la mirada de Radio Bío Bío, ofrece información regional y nacional, además de cine, series y entretenimiento.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="JuntosTV">
+    <display-name lang="es">Juntos TV</display-name>
+    <icon src="https://juntostvchile.cl/wp-content/uploads/2024/02/cropped-LOGO-PNG-OFICIAL-2023.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="JuntosTV">
+    <title lang="es">Juntos TV</title>
+    <desc lang="es">Juntos TV acompaña a la comunidad con una programación variada de actualidad local, entrevistas, cultura, entretenimiento y temas de interés general. Un canal cercano que informa, entretiene y refleja la vida y las historias de su territorio.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="PacíficoTelevisión">
+    <display-name lang="es">Pacífico Televisión</display-name>
+    <icon src="https://i.ibb.co/TDTc9bjc/pacifico-tv-1.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="PacíficoTelevisión">
+    <title lang="es">Pacífico Televisión</title>
+    <desc lang="es">Pacífico Televisión es un canal de televisión con programación variada para toda la familia, que reúne entretenimiento, actualidad, cultura, música y contenidos comunitarios. Una señal pensada para acompañar a su audiencia con espacios cercanos, informativos y de entretención..</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 
 </tv>
