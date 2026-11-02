@@ -223,4 +223,38 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="RDOTelevision">
+    <display-name lang="es">RDO Television</display-name>
+    <icon src="https://i.ibb.co/gZQhLPSX/RDO.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RDOTelevision">
+    <title lang="es">RDO Television</title>
+    <desc lang="es">Canal comunitario de Hualqui, dedicado a informar, entretener y conectar a los habitantes de la comuna y la Región del Biobío. Transmite noticias locales, reportajes, actividades culturales y sociales, y espacios de interés general que reflejan la identidad y la vida cotidiana de la zona.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="CanalLocal">
+    <display-name lang="es">Canal Local</display-name>
+    <icon src="https://i.ibb.co/Q7VrMJJt/cropped-CANALLOCAL-2.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CanalLocal">
+    <title lang="es">Canal Local</title>
+    <desc lang="es">Canal Local es el canal de la información comunal y provincial en Chile. Su programación reúne noticias locales, actualidad municipal, política regional, cultura, deportes, servicios y actividades para la comunidad, con una mirada cercana a la vida cotidiana de las comunas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="EPATV">
+    <display-name lang="es">EPA TV</display-name>
+    <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
+    <title lang="es">EPA TV</title>
+    <desc lang="es">EPA! TV es más que un canal: es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+
 </tv>
