@@ -784,4 +784,70 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="MXPrime">
+    <display-name lang="es">MX Prime</display-name>
+    <icon src="https://i.ibb.co/JR2VXZhb/mx-prime.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXPrime">
+    <title lang="es">MX Prime</title>
+    <desc lang="es">MX Prime te ofrece experiencia cinematográfica diseñada para los amantes del buen cine, con una potente cartelera cargada de acción, suspenso y dramas intensos. Además, descubre las historias, anécdotas y biografías de los actores más icónicos de la industria. Vive la noche con la máxima experiencia del cine en tu hogar.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MXSeries">
+    <display-name lang="es">MX Series</display-name>
+    <icon src="https://i.ibb.co/9HXM0qxv/mx-series.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXSeries">
+    <title lang="es">MX Series</title>
+    <desc lang="es">MX Series diseñado para revivir las series que marcaron tu vida. Ofrece una amplia gama de producciones que abarcan desde intrigantes historias policíacas y de comedia, hasta tramas del lejano oeste, comedias y romances.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MXDrama">
+    <display-name lang="es">MX Drama</display-name>
+    <icon src="https://i.ibb.co/KjBG0MPS/mx-drama.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXDrama">
+    <title lang="es">MX Drama</title>
+    <desc lang="es">MX Drama te trae los dramas más intensos, biografías conmovedoras y relatos inolvidables. Porque la vida está llena de matices, y nosotros te los mostramos todos.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MXClassic">
+    <display-name lang="es">MX Classic</display-name>
+    <icon src="https://i.ibb.co/3YkYGJ9H/mx-classic.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXClassic">
+    <title lang="es">MX Classic</title>
+    <desc lang="es">MX Classic te ofrece lo mejor del cine clásico y series de todos los tiempos, ideal para los amantes de la nostalgia. Su programación incluye clásicos del cine latino, películas épicas de guerra y una variada selección del género western.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="MXOld">
+    <display-name lang="es">MX OLD</display-name>
+    <icon src="https://i.ibb.co/sGSwbCZ/MX-OLD.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXOld">
+    <title lang="es">MX OLD</title>
+    <desc lang="es">MX OLD disfruta de la mejor selección de clásicos inolvidables del cine y la televisión. Una señal pensada para revivir historias memorables llenas de acción, romance, comedia y la música de las épocas doradas. Mucho más de lo que querías ver.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="RetroTVOnline">
+    <display-name lang="es">Retro TV Online</display-name>
+    <icon src="https://i.ibb.co/zVhzHj04/tvretroonline.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RetroTVOnline">
+    <title lang="es">Retro TV Online</title>
+    <desc lang="es">Retro TV Online es el canal que te devuelve a las mejores épocas de la televisión. Disfrutá series clásicas, dibujos animados inolvidables, películas de culto, música retro y programas que marcaron generaciones. Una programación pensada para revivir grandes momentos, descubrir clásicos atemporales y disfrutar de la nostalgia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
