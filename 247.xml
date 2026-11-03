@@ -740,4 +740,48 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+<channel id="VibraCinema">
+    <display-name lang="es">Vibra Cinema</display-name>
+    <icon src="https://i.ibb.co/B5QpQTZm/VIBRA-CINEMA.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraCinema">
+    <title lang="es">Vibra Cinema</title>
+    <desc lang="es">Vibra Cinema es el canal del mejor cine para todos los gustos: acción, comedia, drama, terror, aventuras y clásicos inolvidables. Grandes historias y películas para disfrutar en casa.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="VibraFamily">
+    <display-name lang="es">Vibra Family</display-name>
+    <icon src="https://i.ibb.co/v6crVz3M/VIBRA-FAMILY.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraFamily">
+    <title lang="es">Vibra Family</title>
+    <desc lang="es">Vibra Family es el canal de las películas y series para compartir en casa: animación, aventuras, comedias y clásicos pensados para chicos y grandes. Diversión, emoción y entretenimiento para toda la familia.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="VibraTerror">
+    <display-name lang="es">Vibra Terror</display-name>
+    <icon src="https://i.ibb.co/1GTp84Hg/VIBRA-TERROR.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraTerror">
+    <title lang="es">Vibra Terror</title>
+    <desc lang="es">Vibra Terror es el canal del miedo y el suspenso: películas de terror, thrillers psicológicos, slashers, sobrenatural y misterio. Historias intensas que mantienen la tensión hasta el final.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
+<channel id="VibraNovelas">
+    <display-name lang="es">Vibra Novelas</display-name>
+    <icon src="https://i.ibb.co/gbXfVrfS/VIBRA-NOVELAS.png" />
+  </channel>
+
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraNovelas">
+    <title lang="es">Vibra Novelas</title>
+    <desc lang="es">Vibra Novelas es el canal de las historias que enamoran: novelas románticas, dramas, pasiones, secretos y grandes protagonistas. Emoción, romance y entretenimiento las 24 horas.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
 </tv>
