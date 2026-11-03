@@ -245,13 +245,13 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="EPATV">
-    <display-name lang="es">EPATV</display-name>
+<channel id="EpaTv">
+    <display-name lang="es">EPA!TV</display-name>
     <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EPATV">
-    <title lang="es">EPATV</title>
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EpaTV">
+    <title lang="es">EPA!TV</title>
     <desc lang="es">EPA!TV es más que un canal es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
   </programme>
@@ -696,12 +696,12 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
-<channel id="ATLAS">
+<channel id="Atlas">
     <display-name lang="es">ATLAS</display-name>
     <icon src="https://i.ibb.co/YTpqp4q9/logo-atlas.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ATLAS">
+  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Atlas">
     <title lang="es">ATLAS</title>
     <desc lang="es">FMH Atlas es el canal de los grandes viajes y los lugares extraordinarios: naturaleza, culturas, aventura, historia y documentales que recorren el planeta. Descubrí el mundo desde casa, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
