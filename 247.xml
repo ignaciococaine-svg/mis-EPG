@@ -8,7 +8,7 @@
     <icon src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767648233356/da7e065b6446_480_270.jpg" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MIXTVpe">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MIXTVpe">
     <title lang="es">MIX TV</title>
     <desc lang="es">Programación variada y alternada con música, videos y entretenimiento. Una señal dinámica para acompañarte con contenidos frescos y diversos durante todo el día a través de MIX TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -19,7 +19,7 @@
     <icon src="https://i.ibb.co/4kSCzSt/13go-2025.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="13go">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="13go">
     <title lang="es">13 GO</title>
     <desc lang="es">13GO es la plataforma digital de Canal 13 con señales en vivo y contenido a demanda. Disfruta de teleseries, realities, humor, cultura, cocina, viajes, festivales, deportes, documentales, radios y programas históricos del 13, además de canales temáticos exclusivos disponibles las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -30,7 +30,7 @@
     <icon src="https://i.ibb.co/FbGvNPsk/IMG-0104.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Silver">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Silver">
     <title lang="es">Silver</title>
     <desc lang="es">Silver TV es un canal pensado para el público sénior, con una programación de conversación, actualidad, bienestar, salud, cultura, ciencia y entretenimiento. Disfruta de programas con rostros queridos de la televisión chilena, historias inspiradoras, música y recuerdos de los años 70, 80 y 90, además de documentales, viajes, conciertos y contenidos sobre tecnología y longevidad.</desc>
     <category lang="es">Entretenimiento</category>
@@ -41,7 +41,7 @@
     <icon src="https://clicktvchile.cl/images/196/21542558/LogoClickTvChile-BASo-W0QejeD2lavT6Hs9g-3tnwmQZFHdC8CL2AKtbBrw.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ClickTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ClickTV">
     <title lang="es">Click TV Chile</title>
     <desc lang="es">ClickTV Chile es un canal de televisión que conecta a las personas con su territorio y comunidad. Su programación incluye noticias regionales y nacionales, entrevistas, salud y bienestar, emprendimiento, cultura, música, vida familiar, contenidos cristianos y espacios de servicio, con historias e información útil para toda la familia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -52,7 +52,7 @@
     <icon src="https://i.ibb.co/VYh11273/images-copia.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EmocionTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="EmocionTV">
     <title lang="es">EmociónTV</title>
     <desc lang="es">Emoción TV es un canal chileno de entretenimiento con conversación, entrevistas, actualidad del espectáculo, música, magacines y contenidos de vida cotidiana. Una señal cercana, dinámica y familiar, que conecta con la comunidad y acompaña a los televidentes durante todo el día.</desc>
     <category lang="es">Entretenimiento</category>
@@ -63,7 +63,7 @@
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CoyhaiqueTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="CoyhaiqueTV">
     <title lang="es">Coyhaique TV</title>
     <desc lang="es">Disfruta de Coyhaique TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -74,7 +74,7 @@
     <icon src="https://i.ibb.co/bRCn8Vwd/Olit2.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="OliTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="OliTV">
     <title lang="es">Oli TV</title>
     <desc lang="es">Disfruta de OliTV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -85,7 +85,7 @@
     <icon src="https://i.ibb.co/wFqRxsjC/aell.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AbajoelaLineaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AbajoelaLineaTV">
     <title lang="es">Abajo e' la Línea TV</title>
     <desc lang="es">Disfruta de Abajo e' la Línea TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -96,7 +96,7 @@
     <icon src="https://i.ibb.co/LXL8b73w/logo-aysentv-2022.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AysenTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AysenTV">
     <title lang="es">Aysen TV</title>
     <desc lang="es">Disfruta de Aysen TV.</desc>
     <category lang="es">Entretenimiento</category>
@@ -107,7 +107,7 @@
     <icon src="https://i.ibb.co/tTCcRjxs/Logo-CHV-Deportes-2022.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CHVDeportes">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="CHVDeportes">
     <title lang="es">CHV Deportes</title>
     <desc lang="es">Toda la actualidad del deporte con noticias, análisis, entrevistas y los mejores momentos del fútbol chileno e internacional. Un espacio para seguir resultados, protagonistas y la conversación deportiva del día.</desc>
     <category lang="es">Deportes</category>
@@ -118,7 +118,7 @@
     <icon src="https://cdn.energeek.cl/logos/EG-Radio-2025_brand.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EnerGeek Radio">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="EnerGeek Radio">
     <title lang="es">EnerGeek Radio</title>
     <desc lang="es">Música japonesa, J-Pop, J-Rock, bandas sonoras de anime y videojuegos en una señal para los amantes de la cultura geek y la cultura pop. Disfruta de una programación musical continua con los sonidos que acompañan tus mundos favoritos.</desc>
     <category lang="es">Musica</category>
@@ -129,7 +129,7 @@
     <icon src="https://i.ibb.co/fzR74vf0/ZTV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="11Aysen">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="11Aysen">
     <title lang="es">Canal 11 Aysen</title>
     <desc lang="es">Programación orientada a la comunidad aysenina, con noticias regionales, informaciones locales, servicios, cultura y contenidos de interés para Puerto Aysén y sus alrededores. Desde 1999, Canal 11 acompaña a los habitantes de la región como “el canal de la gente de Aysén”.</desc>
     <category lang="es">Entretenimiento</category>
@@ -140,7 +140,7 @@
     <icon src="https://pridetvlatam.cl/wp-content/uploads/2025/08/cropped-pridetv-logo-web-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="PRIDETV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="PRIDETV">
     <title lang="es">PRIDE TV</title>
     <desc lang="es">PRIDEtv es el canal de estilo de vida para la comunidad LGBTQI+ y para todos los públicos que celebran la diversidad. Ofrece películas de arte premiadas, documentales, series queer, cortometrajes, realities y programas originales que ponen en pantalla historias, talentos y experiencias diversas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -151,7 +151,7 @@
     <icon src="https://i.ibb.co/3Yp4DQK2/animakids.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AnimaKids">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AnimaKids">
     <title lang="es">AnimaKids</title>
     <desc lang="es">Canal dedicado al anime y la animación para chicos y jóvenes, con series de acción, aventura, fantasía y comedia. Descubrí historias emocionantes, personajes inolvidables y la mejor diversión del mundo del anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -162,7 +162,7 @@
     <icon src="https://i.ibb.co/Jj9zJbmr/aniretro.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ANIRetro">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ANIRetro">
     <title lang="es">ANIRetro</title>
     <desc lang="es">Canal dedicado al anime clásico y a las series de animación que marcaron generaciones. Reviví títulos de acción, aventura, ciencia ficción y fantasía, con la nostalgia y el estilo de las mejores épocas del anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -173,7 +173,7 @@
     <icon src="https://i.ibb.co/9kHrG3FZ/Animash.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Animash">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Animash">
     <title lang="es">Animash</title>
     <desc lang="es">El universo del anime en un solo canal: aventura, romance, magia, acción y ciencia ficción. Con una programación variada y estrenos simultáneos desde Japón, Animash acerca a los fans a los géneros, estilos y narrativas más apasionantes de la animación japonesa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -184,7 +184,7 @@
     <icon src="https://i.ibb.co/twxYntMM/Max-Anime-Logo.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MAXAnime">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MAXAnime">
     <title lang="es">MAX Anime</title>
     <desc lang="es">Canal dedicado a la animación japonesa, con series de anime dobladas al español y una programación variada de acción, aventura, fantasía, ciencia ficción y comedia. Un espacio para descubrir y disfrutar de los mejores títulos del universo anime.</desc>
     <category lang="es">Entretenimiento</category>
@@ -195,7 +195,7 @@
     <icon src="https://esportsmax.tv/wp-content/uploads/2024/02/Esports-max-blanco.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MAXeSports">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MAXeSports">
     <title lang="es">MAX eSports</title>
     <desc lang="es">Canal dedicado 24/7 al mundo de los videojuegos y los deportes electrónicos, con torneos profesionales, competencias de League of Legends y Valorant, gameplays, reviews, showmatches y contenido en vivo de streamers. La mejor escena competitiva del gaming, para fans y jugadores de todas las edades.</desc>
     <category lang="es">Entretenimiento</category>
@@ -206,7 +206,7 @@
     <icon src="https://www.caracolatv.cl/wp-content/uploads/2022/11/cropped-LOGO-CARACOLA-05-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CaracolaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="CaracolaTV">
     <title lang="es">Caracola TV</title>
     <desc lang="es">Caracola TV es el canal comunitario de Peñalolén y zonas aledañas de Santiago. Su programación reúne noticias e información local, cultura, entrevistas, eventos barriales y entretenimiento para toda la familia, con una mirada cercana a la identidad y la vida cotidiana del sector.</desc>
     <category lang="es">Entretenimiento</category>
@@ -217,7 +217,7 @@
     <icon src="https://i.ibb.co/WNynkt88/IMG-1446.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="HiperTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="HiperTV">
     <title lang="es">HiperTV</title>
     <desc lang="es">HiperTV es el canal para los amantes de la tecnología y la cultura digital. Transmite las 24 horas contenidos sobre innovación, ciencia, inteligencia artificial, dispositivos móviles, software, videojuegos, redes sociales, programación y ciberseguridad, con entrevistas, reseñas, debates y transmisiones de eventos tecnológicos.</desc>
     <category lang="es">Entretenimiento</category>
@@ -228,7 +228,7 @@
     <icon src="https://i.ibb.co/gZQhLPSX/RDO.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RDOTelevisión">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="RDOTelevisión">
     <title lang="es">RDO Televisión</title>
     <desc lang="es">Canal comunitario de Hualqui, dedicado a informar, entretener y conectar a los habitantes de la comuna y la Región del Biobío. Transmite noticias locales, reportajes, actividades culturales y sociales, y espacios de interés general que reflejan la identidad y la vida cotidiana de la zona.</desc>
     <category lang="es">Entretenimiento</category>
@@ -239,7 +239,7 @@
     <icon src="https://i.ibb.co/Q7VrMJJt/cropped-CANALLOCAL-2.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="CanalLocal">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="CanalLocal">
     <title lang="es">Canal Local</title>
     <desc lang="es">Canal Local es el canal de la información comunal y provincial en Chile. Su programación reúne noticias locales, actualidad municipal, política regional, cultura, deportes, servicios y actividades para la comunidad, con una mirada cercana a la vida cotidiana de las comunas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -250,7 +250,7 @@
     <icon src="https://maquinastv.cl/wp-content/uploads/2026/02/NEWE-EPATV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EpaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="EpaTV">
     <title lang="es">EPA!TV</title>
     <desc lang="es">EPA!TV es más que un canal es una comunidad dedicada a la música, la cultura motor y el entretenimiento. Presenta programas con artistas y bandas emergentes, entrevistas, coberturas de automovilismo, conversaciones y contenidos cercanos para todos los públicos.</desc>
     <category lang="es">Entretenimiento</category>
@@ -261,7 +261,7 @@
     <icon src="https://www.unetev.cl/wp-content/uploads/2023/08/LOGO1-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Únetev">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Únetev">
     <title lang="es">Únetev</title>
     <desc lang="es">Únetev conecta a las comunidades de la provincia de Talagante con información, cultura, educación y entretenimiento. Un espacio para la participación ciudadana, las tradiciones y las voces del territorio.</desc>
     <category lang="es">Entretenimiento</category>
@@ -272,7 +272,7 @@
     <icon src="https://www.wapptv.cl/assets/img/LOGO-WAPP-TV-BLANCO.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="WappTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="WappTV">
     <title lang="es">WappTV</title>
     <desc lang="es">WappTV es un canal de televisión de variedad temática que reúne entrevistas, actualidad, viajes, bienestar, sostenibilidad, ciencia, emprendimiento, cultura pop y entretenimiento. Con una programación diversa y con perspectiva de género, invita a descubrir historias, ideas y experiencias desde una mirada contemporánea e inclusiva.</desc>
     <category lang="es">Entretenimiento</category>
@@ -283,7 +283,7 @@
     <icon src="https://i.ibb.co/xnfhYkb/logo-Photoroom.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ProvidenciaTelevisión">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ProvidenciaTelevisión">
     <title lang="es">Providencia Televisión</title>
     <desc lang="es">Providencia Televisión conecta a los vecinos con la actualidad y la identidad de la comuna. Disfruta de reportajes, entrevistas, cultura, deporte, servicios, eventos barriales y entretenimiento, en un espacio dedicado a informar, entretener y poner en valor la comunidad de Providencia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -294,7 +294,7 @@
     <icon src="https://static.wixstatic.com/media/dc92ad_828a03ad7d6d48cf81af0c6f300fd5a8~mv2.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TendenciasPrime">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="TendenciasPrime">
     <title lang="es">Tendencias Prime</title>
     <desc lang="es">Tendencias Prime es un canal de interés general que reúne entretenimiento, actualidad, cultura, entrevistas, estilo de vida y contenidos para toda la familia. Una señal variada, pensada para acompañar distintos momentos del día con programación accesible y diversa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -305,7 +305,7 @@
     <icon src="https://i.ibb.co/wZSFFk4Z/DFSDFS465267987-8722470487812613-1494007543990162689-n.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="PichilemuTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="PichilemuTV">
     <title lang="es">Pichilemu TV</title>
     <desc lang="es">Pichilemu TV acompaña a la comunidad con una programación que pone en valor el territorio y sus protagonistas. Descubre documentales, series sobre tradiciones y veranos de Pichilemu, espacios de opinión ciudadana, entrevistas, cultura local y contenidos que reflejan la vida, la memoria y el patrimonio de la zona.</desc>
     <category lang="es">Entretenimiento</category>
@@ -316,7 +316,7 @@
     <icon src="https://www.vivotv.cl/images/logo%201920%20-1080%20con%20pagina%20web.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VivoTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VivoTV">
     <title lang="es">Vivo TV</title>
     <desc lang="es">Vivo TV ofrece una programación variada para todos los públicos: novelas, conversaciones y entrevistas, entretenimiento, actualidad y espacios informativos. Disponible las 24 horas, es un canal pensado para acompañar el día con contenidos cercanos y entretenidos.</desc>
     <category lang="es">Entretenimiento</category>
@@ -327,7 +327,7 @@
     <icon src="https://i.ibb.co/q3My0CCP/42505239-215387399155000048-655622080515014656-n.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="NCCTomé">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="NCCTomé">
     <title lang="es">NCC Tomé</title>
     <desc lang="es">NCC Tomé es el canal de la comunidad de Tomé. Ofrece noticias locales, deportes, entrevistas, documentales, cultura, música y espacios de entretenimiento que reflejan la identidad, las tradiciones y el acontecer de la comuna y la Región del Biobío.</desc>
     <category lang="es">Entretenimiento</category>
@@ -338,7 +338,7 @@
     <icon src="https://i.ibb.co/zWRSnBY0/46760645-2178216875521843-5874159554501017600-n.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="GTVTelevisión">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="GTVTelevisión">
     <title lang="es">GTV Televisión</title>
     <desc lang="es">GTV Televisión acompaña a la comunidad de Rancagua y la Región de O’Higgins con una programación cercana y variada: noticias locales, entrevistas, cultura, deportes, actividades y entretenimiento. Un canal que difunde los acontecimientos, los talentos y la identidad del territorio.</desc>
     <category lang="es">Entretenimiento</category>
@@ -349,7 +349,7 @@
     <icon src="https://i.ibb.co/NnG3WdPx/431898077-843581251114264-7854577795134161858-n.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ElTipógrafoTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ElTipógrafoTV">
     <title lang="es">El Tipógrafo TV</title>
     <desc lang="es">El Tipógrafo TV es la señal informativa del medio regional El Tipógrafo, dedicada a la actualidad de Rancagua y la Región de O’Higgins. Su programación incluye Noticiero El Tipógrafo, entrevistas, editoriales, reportajes, actualidad política y comunal, cultura, gastronomía, historia local y transmisiones en vivo de eventos relevantes.</desc>
     <category lang="es">Entretenimiento</category>
@@ -360,7 +360,7 @@
     <icon src="https://i.ibb.co/4gV58yZV/EKIZ-TV.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="EkizTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="EkizTV">
     <title lang="es">Ekiz TV</title>
     <desc lang="es">Ekiz TV conecta con la comunidad a través de una programación cercana y variada: actualidad local, reportajes, entrevistas, cultura, deportes, eventos y entretenimiento para toda la familia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -371,7 +371,7 @@
     <icon src="https://i.ibb.co/XZFhCLQp/c-FFodiseatv.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="OdiseaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="OdiseaTV">
     <title lang="es">Odisea TV</title>
     <desc lang="es">Odisea TV invita a descubrir el mundo a través de documentales de ciencia, naturaleza, historia, tecnología y cultura. Desde la vida salvaje y los misterios del océano hasta la exploración espacial, la ingeniería y los grandes inventos, su programación ofrece conocimiento y entretenimiento para toda la familia, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -382,7 +382,7 @@
     <icon src="https://autonomatvchile.cl/logo-autonoma-tv-transparente.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AutónomaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AutónomaTV">
     <title lang="es">Autónoma TV</title>
     <desc lang="es">Autónoma TV es tu fuente de entretenimiento, información y cultura las 24 horas. Disfruta de noticieros, entrevistas, programas de conversación, salud y bienestar, deportes, música, cine, series, documentales y espacios culturales que reflejan la diversidad de Chile y el mundo.</desc>
     <category lang="es">Entretenimiento</category>
@@ -393,7 +393,7 @@
     <icon src="https://www.utv.cl/icon.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="UTVSanClemente">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="UTVSanClemente">
     <title lang="es">UTV San Clemente</title>
     <desc lang="es">UTV San Clemente acompaña a la comunidad con noticias, entrevistas, cultura, tradiciones, deportes, actividades vecinales y entretenimiento. Un canal local que difunde la identidad, los talentos y la vida cotidiana de San Clemente y su gente.</desc>
     <category lang="es">Entretenimiento</category>
@@ -404,7 +404,7 @@
     <icon src="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/c9b5d2ac-2f70-40e1-beed-78d39108f657/_Canal+Uno_.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Canal1Ñuble">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Canal1Ñuble">
     <title lang="es">Canal 1 Ñuble</title>
     <desc lang="es">Canal 1 Ñuble es el canal de la región: información, entretención y compañía para toda la familia. Disfruta de Hora Clave TV, La Mañana de Uno, Uno Noticias, Uno Te Ayuda, Conectamos, Plan Ideal, Estilo y Estrellas, Ni tan Late y Uno Películas, con una programación cercana a la identidad y la vida cotidiana de Ñuble.</desc>
     <category lang="es">Entretenimiento</category>
@@ -415,7 +415,7 @@
     <icon src="https://i.ibb.co/ynLJ9zH4/RTV-NUBLE.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RTVÑuble">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="RTVÑuble">
     <title lang="es">RTV Ñuble</title>
     <desc lang="es">RTV Ñuble acompaña a la comunidad con una programación variada y de identidad local: noticias regionales, matinales con cocina y anuncios comunitarios, telenovelas, entrevistas, música, artesanía, festividades y cultura del territorio. Una ventana a la vida, las historias y los acontecimientos de la Región de Ñuble.</desc>
     <category lang="es">Entretenimiento</category>
@@ -426,7 +426,7 @@
     <icon src="https://i.ibb.co/vxbh0tXg/273376210-2979683809028780-6036201768346758291-n.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TV5Angol">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="TV5Angol">
     <title lang="es">TV5 Angol</title>
     <desc lang="es">TV5 Angol acompaña a la comunidad de Angol y la Región de La Araucanía con una programación cercana y variada: noticias locales, entrevistas, cultura, deporte, tradiciones, actividades sociales y entretenimiento para toda la familia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -437,7 +437,7 @@
     <icon src="https://i.ibb.co/ymLD2cGd/654280774-122182505312939760-5247389100827797416-n-Photoroom.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="TVCoihueco">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="TVCoihueco">
     <title lang="es">TV Coihueco</title>
     <desc lang="es">Canal de la comunidad de Coihueco. Difunde noticias y actividades locales, tradiciones, cultura, música, religión y eventos en vivo, con una mirada cercana a la identidad y la vida cotidiana de la comuna.</desc>
     <category lang="es">Entretenimiento</category>
@@ -448,7 +448,7 @@
     <icon src="https://juntostvchile.cl/wp-content/uploads/2024/02/cropped-LOGO-PNG-OFICIAL-2023.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Canal9Concepción">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Canal9Concepción">
     <title lang="es">Canal 9 Concepción</title>
     <desc lang="es">Canal 9 Bío Bío Televisión conecta con la actualidad del Gran Concepción y la Región del Biobío a través de noticieros, matinales, entrevistas, análisis político, reportajes, deportes y espacios culturales. Con la mirada de Radio Bío Bío, ofrece información regional y nacional, además de cine, series y entretenimiento.</desc>
     <category lang="es">Entretenimiento</category>
@@ -459,7 +459,7 @@
     <icon src="https://juntostvchile.cl/wp-content/uploads/2024/02/cropped-LOGO-PNG-OFICIAL-2023.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="JuntosTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="JuntosTV">
     <title lang="es">Juntos TV</title>
     <desc lang="es">Juntos TV acompaña a la comunidad con una programación variada de actualidad local, entrevistas, cultura, entretenimiento y temas de interés general. Un canal cercano que informa, entretiene y refleja la vida y las historias de su territorio.</desc>
     <category lang="es">Entretenimiento</category>
@@ -470,7 +470,7 @@
     <icon src="https://i.ibb.co/TDTc9bjc/pacifico-tv-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="PacíficoTelevisión">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="PacíficoTelevisión">
     <title lang="es">Pacífico Televisión</title>
     <desc lang="es">Pacífico Televisión es un canal de televisión con programación variada para toda la familia, que reúne entretenimiento, actualidad, cultura, música y contenidos comunitarios. Una señal pensada para acompañar a su audiencia con espacios cercanos, informativos y de entretención..</desc>
     <category lang="es">Entretenimiento</category>
@@ -481,7 +481,7 @@
     <icon src="https://i.ibb.co/fKWBJt5/concepciontv.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ConcepciónTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ConcepciónTV">
     <title lang="es">Concepción TV</title>
     <desc lang="es">Concepción TV acompaña a la comunidad del Gran Concepción con noticias locales, entrevistas, cultura, deportes, actividades sociales y entretenimiento. Su programación incluye espacios de conversación como Junto a Ti, además de contenidos informativos, comunitarios y de interés general para la región.</desc>
     <category lang="es">Entretenimiento</category>
@@ -492,7 +492,7 @@
     <icon src="https://radiodinamica.cl/wp-content/uploads/2025/09/DTV_Diseno_sin_titulo-removebg-preview.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="DinámicaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="DinámicaTV">
     <title lang="es">Dinámica TV</title>
     <desc lang="es">Canal Dinámica TV acompaña a la comunidad de Coronel y la Región del Biobío con una programación cercana y plural: noticias locales, entrevistas, actualidad, cultura, música y espacios de entretenimiento. Un medio que informa, conversa y refleja la vida de la zona.</desc>
     <category lang="es">Entretenimiento</category>
@@ -503,7 +503,7 @@
     <icon src="https://i.ibb.co/1gn6VZD/206667742-4084648041656251-6195781250182289786-n-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ClubTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ClubTV">
     <title lang="es">Club TV</title>
     <desc lang="es">Club TV es un canal de música y entretenimiento que acompaña a su audiencia con videoclips, éxitos musicales, programas y contenidos variados. Una señal para disfrutar de la música y el entretenimiento en cualquier momento del día.</desc>
     <category lang="es">Entretenimiento</category>
@@ -514,7 +514,7 @@
     <icon src="https://maulevision.cl/wp-content/uploads/2025/03/maulevision-solo-e1743355890621.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MaulevisiónTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MaulevisiónTV">
     <title lang="es">Maulevisión TV</title>
     <desc lang="es">Maulevisión conecta con la Región del Maule a través de una programación cercana y variada: entretenimiento, música, entrevistas, cultura, actualidad local y espacios comunitarios. Un canal para informarse, entretenerse y descubrir las historias y talentos del territorio.</desc>
     <category lang="es">Entretenimiento</category>
@@ -525,7 +525,7 @@
     <icon src="https://www.vltv.cl/img/logo-new.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VLTVUnanuevaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VLTVUnanuevaTV">
     <title lang="es">VLTV Una Nueva TV</title>
     <desc lang="es">VLTV — Una Nueva TV acompaña a la comunidad del Valle del Loncomilla con una programación cercana y variada: actualidad local, entrevistas, cultura, tradiciones, deportes, música y entretenimiento. Un canal que informa, entretiene y pone en valor la identidad del territorio.</desc>
     <category lang="es">Entretenimiento</category>
@@ -536,7 +536,7 @@
     <icon src="https://i.ibb.co/gMTKxLKg/TV-U-Cat-lica-Temuco.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="UCTAraucaníaTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="UCTAraucaníaTV">
     <title lang="es">UCT Araucanía TV</title>
     <desc lang="es">TV UCT Araucanía acompaña a la comunidad con una programación que combina información, conversación, análisis y entretención. Descubre documentales, entrevistas, actualidad regional, salud y bienestar, arte, música y contenidos que destacan la interculturalidad, la naturaleza y el conocimiento de La Araucanía.</desc>
     <category lang="es">Entretenimiento</category>
@@ -547,7 +547,7 @@
     <icon src="http://corcubio.com/wp-content/uploads/2023/06/LOGO-CORCUBIO.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Corcubio">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Corcubio">
     <title lang="es">Corcubio</title>
     <desc lang="es">Corcubio TV es el canal cultural de la Corporación Cultural de Biobío. Ofrece una programación continua de conciertos de afamadas orquestas de música clásica, además de documentales, entrevistas y espacios sobre las artes, la música y la vida cultural de la región.</desc>
     <category lang="es">Entretenimiento</category>
@@ -558,7 +558,7 @@
     <icon src="https://i.imgur.com/3w9hrzT.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ExpreziónTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ExpreziónTV">
     <title lang="es">Exprezión TV</title>
     <desc lang="es">ExpreziónTV acompaña a la comunidad de Los Álamos y la Provincia de Arauco con una programación plural, creativa y de servicio. Disfruta de noticias locales, entrevistas, cultura, educación, música, fe, eventos municipales, religiosos y comunitarios, además de espacios de entretenimiento para toda la familia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -569,7 +569,7 @@
     <icon src="https://i.ibb.co/NgVtfk4v/primitivos-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Primitivos">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Primitivos">
     <title lang="es">Primitivos</title>
     <desc lang="es">Primitivos TV es un canal chileno local/regional de Valdivia, Región de Los Ríos, con una programación de interés general y estilo clásico. Su parrilla incluye música, variedades, cine retro y contenidos cercanos a la comunidad.</desc>
     <category lang="es">Entretenimiento</category>
@@ -580,7 +580,7 @@
     <icon src="https://i.ibb.co/35phh2Sm/logo-farwest.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHFarWest">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="FMHFarWest">
     <title lang="es">FMH FarWest</title>
     <desc lang="es">FMH Farwest te transporta al salvaje oeste con películas y series clásicas de vaqueros, pistoleros, paisajes abiertos y grandes historias de aventura. Disponible las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -591,7 +591,7 @@
     <icon src="https://i.ibb.co/tMLx7kbp/logo-rewind.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHRewind">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="FMHRewind">
     <title lang="es">FMH Rewind</title>
     <desc lang="es">FMH Rewind es el canal del cine de colección: presenta películas destacadas de todas las épocas, íntegras y sin interrupciones comerciales, para disfrutar de los grandes clásicos y títulos memorables.</desc>
     <category lang="es">Entretenimiento</category>
@@ -602,7 +602,7 @@
     <icon src="https://i.ibb.co/ycPLpbNn/IMG-1547.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHFlashback">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="FMHFlashback">
     <title lang="es">FMH Flashback</title>
     <desc lang="es">FMH Flashback es el canal de la nostalgia televisiva: reúne series clásicas que dejaron huella en la historia de la televisión, disponibles para disfrutar las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -613,7 +613,7 @@
     <icon src="https://fmh.la/img/logo_kids.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="FMHKids">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="FMHKids">
     <title lang="es">FMH Kids</title>
     <desc lang="es">FMH Kids es el canal de entretenimiento para los más chicos: dibujos animados, series, música, juegos y contenidos educativos pensados para aprender y divertirse. Aventuras, colores y personajes para disfrutar en familia, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -624,7 +624,7 @@
     <icon src="http://chileinforma.multicontenidos.cl/images/CHILE-INFORMA-PLUS-1.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="ChileInforma">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="ChileInforma">
     <title lang="es">Chile Informa</title>
     <desc lang="es">Chile Informa acerca a la ciudadanía las novedades y recursos disponibles del Estado: fondos, subsidios, educación, vivienda, emprendimiento y desarrollo local, a través de una programación informativa y educativa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -635,7 +635,7 @@
     <icon src="https://i.ibb.co/FLB0KH1q/CINE.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+Cine">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+Cine">
     <title lang="es">+Cine</title>
     <desc lang="es">+Cine es el canal dedicado por completo al séptimo arte: estrenos, clásicos, comedias, acción, drama, terror y cine familiar. Disfrutá de películas para todos los gustos, con historias que emocionan, entretienen y hacen vivir el cine las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -646,7 +646,7 @@
     <icon src="https://i.ibb.co/S7XjbfHg/CINE-Premium.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CinePremium">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+CinePremium">
     <title lang="es">+Cine Premium</title>
     <desc lang="es">+Cine Premium ofrece el mejor cine sin interrupciones: grandes estrenos, producciones premiadas, clásicos imprescindibles y películas de todos los géneros en la máxima calidad. Una experiencia cinematográfica exclusiva, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -657,7 +657,7 @@
     <icon src="https://i.ibb.co/XkXv00qv/CINE-Family.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineFamily">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+CineFamily">
     <title lang="es">+Cine Family</title>
     <desc lang="es">+Cine Family es el canal de las películas para compartir: comedias, aventuras, animación y clásicos pensados para disfrutar en casa. Historias divertidas, emotivas y aptas para todas las edades, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -668,7 +668,7 @@
     <icon src="https://i.ibb.co/M5KRB63M/CINE-Terror.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineTerror">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+CineTerror">
     <title lang="es">+Cine Terror</title>
     <desc lang="es">+Cine Terror es el destino de los amantes del suspenso y el miedo: películas de terror, thrillers psicológicos, slashers, sobrenatural y ciencia ficción oscura. Historias que mantienen la tensión hasta el final, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -679,7 +679,7 @@
     <icon src="https://i.ibb.co/fdm5kM67/CINE-War.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineWar">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+CineWar">
     <title lang="es">+Cine War</title>
     <desc lang="es">+Cine War es el canal del cine bélico y de acción: grandes batallas, héroes en el frente, misiones de riesgo e historias basadas en hechos reales. Acción, estrategia y emoción en una programación dedicada al cine de guerra, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -690,7 +690,7 @@
     <icon src="https://i.ibb.co/0jTZ6zts/CINE-Classic.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="+CineClassic">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="+CineClassic">
     <title lang="es">+Cine Classic</title>
     <desc lang="es">+Cine Classic es el hogar de los grandes clásicos del cine: películas legendarias, estrellas inolvidables y obras maestras de todos los tiempos. Un viaje por la historia del séptimo arte, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -701,7 +701,7 @@
     <icon src="https://i.ibb.co/YTpqp4q9/logo-atlas.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="Atlas">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="Atlas">
     <title lang="es">ATLAS</title>
     <desc lang="es">FMH Atlas es el canal de los grandes viajes y los lugares extraordinarios: naturaleza, culturas, aventura, historia y documentales que recorren el planeta. Descubrí el mundo desde casa, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -712,7 +712,7 @@
     <icon src="https://cdn2.storage.foromedios.com/original/3X/d/c/dcc126f699b6f028fb93895076377978a7dbecd0.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="KNinoTV">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="KNinoTV">
     <title lang="es">KNino TV</title>
     <desc lang="es">KNino TV es el primer canal creado para acompañar a perros y mascotas cuando están solos en casa. Contenidos las 24 horas con estímulos visuales y sonoros diseñados para promover la calma, el bienestar y la entretenida compañía de tu mascota.</desc>
     <category lang="es">Entretenimiento</category>
@@ -723,7 +723,7 @@
     <icon src="https://i.ibb.co/DfX4qKmb/anmaxkidshd.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AnMaxKids">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AnMaxKids">
     <title lang="es">AnMax Kids</title>
     <desc lang="es">ANMAX Kids es el canal de diversión para los más chicos: dibujos animados, series, aventuras, música y personajes llenos de color. Contenidos para jugar, aprender y disfrutar en familia, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -734,7 +734,7 @@
     <icon src="https://i.ibb.co/gLtP9Gsg/anmaxmovieshd.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="AnMaxMovies">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="AnMaxMovies">
     <title lang="es">AnMax Movies</title>
     <desc lang="es">ANMAX Movies es el canal de las películas para todos los gustos: acción, comedia, drama, terror, aventuras y grandes clásicos. Disfrutá del mejor cine en casa, las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -745,7 +745,7 @@
     <icon src="https://i.ibb.co/B5QpQTZm/VIBRA-CINEMA.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraCinema">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VibraCinema">
     <title lang="es">Vibra Cinema</title>
     <desc lang="es">Vibra Cinema es el canal del mejor cine para todos los gustos: acción, comedia, drama, terror, aventuras y clásicos inolvidables. Grandes historias y películas para disfrutar en casa.</desc>
     <category lang="es">Entretenimiento</category>
@@ -756,7 +756,7 @@
     <icon src="https://i.ibb.co/v6crVz3M/VIBRA-FAMILY.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraFamily">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VibraFamily">
     <title lang="es">Vibra Family</title>
     <desc lang="es">Vibra Family es el canal de las películas y series para compartir en casa: animación, aventuras, comedias y clásicos pensados para chicos y grandes. Diversión, emoción y entretenimiento para toda la familia.</desc>
     <category lang="es">Entretenimiento</category>
@@ -767,7 +767,7 @@
     <icon src="https://i.ibb.co/1GTp84Hg/VIBRA-TERROR.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraTerror">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VibraTerror">
     <title lang="es">Vibra Terror</title>
     <desc lang="es">Vibra Terror es el canal del miedo y el suspenso: películas de terror, thrillers psicológicos, slashers, sobrenatural y misterio. Historias intensas que mantienen la tensión hasta el final.</desc>
     <category lang="es">Entretenimiento</category>
@@ -778,7 +778,7 @@
     <icon src="https://i.ibb.co/gbXfVrfS/VIBRA-NOVELAS.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="VibraNovelas">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="VibraNovelas">
     <title lang="es">Vibra Novelas</title>
     <desc lang="es">Vibra Novelas es el canal de las historias que enamoran: novelas románticas, dramas, pasiones, secretos y grandes protagonistas. Emoción, romance y entretenimiento las 24 horas.</desc>
     <category lang="es">Entretenimiento</category>
@@ -789,7 +789,7 @@
     <icon src="https://i.ibb.co/JR2VXZhb/mx-prime.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXPrime">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MXPrime">
     <title lang="es">MX Prime</title>
     <desc lang="es">MX Prime te ofrece experiencia cinematográfica diseñada para los amantes del buen cine, con una potente cartelera cargada de acción, suspenso y dramas intensos. Además, descubre las historias, anécdotas y biografías de los actores más icónicos de la industria. Vive la noche con la máxima experiencia del cine en tu hogar.</desc>
     <category lang="es">Entretenimiento</category>
@@ -800,7 +800,7 @@
     <icon src="https://i.ibb.co/9HXM0qxv/mx-series.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXSeries">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MXSeries">
     <title lang="es">MX Series</title>
     <desc lang="es">MX Series diseñado para revivir las series que marcaron tu vida. Ofrece una amplia gama de producciones que abarcan desde intrigantes historias policíacas y de comedia, hasta tramas del lejano oeste, comedias y romances.</desc>
     <category lang="es">Entretenimiento</category>
@@ -811,7 +811,7 @@
     <icon src="https://i.ibb.co/KjBG0MPS/mx-drama.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXDrama">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MXDrama">
     <title lang="es">MX Drama</title>
     <desc lang="es">MX Drama te trae los dramas más intensos, biografías conmovedoras y relatos inolvidables. Porque la vida está llena de matices, y nosotros te los mostramos todos.</desc>
     <category lang="es">Entretenimiento</category>
@@ -822,7 +822,7 @@
     <icon src="https://i.ibb.co/3YkYGJ9H/mx-classic.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXClassic">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MXClassic">
     <title lang="es">MX Classic</title>
     <desc lang="es">MX Classic te ofrece lo mejor del cine clásico y series de todos los tiempos, ideal para los amantes de la nostalgia. Su programación incluye clásicos del cine latino, películas épicas de guerra y una variada selección del género western.</desc>
     <category lang="es">Entretenimiento</category>
@@ -833,7 +833,7 @@
     <icon src="https://i.ibb.co/sGSwbCZ/MX-OLD.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="MXOld">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="MXOld">
     <title lang="es">MX OLD</title>
     <desc lang="es">MX OLD disfruta de la mejor selección de clásicos inolvidables del cine y la televisión. Una señal pensada para revivir historias memorables llenas de acción, romance, comedia y la música de las épocas doradas. Mucho más de lo que querías ver.</desc>
     <category lang="es">Entretenimiento</category>
@@ -844,7 +844,7 @@
     <icon src="https://i.ibb.co/zVhzHj04/tvretroonline.png" />
   </channel>
 
-  <programme start="20261102060000 +0000" stop="20261109060000 +0000" channel="RetroTVOnline">
+ <programme start="20261109060000 +0000" stop="20261116060000 +0000" channel="RetroTVOnline">
     <title lang="es">Retro TV Online</title>
     <desc lang="es">Retro TV Online es el canal que te devuelve a las mejores épocas de la televisión. Disfrutá series clásicas, dibujos animados inolvidables, películas de culto, música retro y programas que marcaron generaciones. Una programación pensada para revivir grandes momentos, descubrir clásicos atemporales y disfrutar de la nostalgia.</desc>
     <category lang="es">Entretenimiento</category>
